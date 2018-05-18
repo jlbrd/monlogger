@@ -41,17 +41,10 @@ void MainWindow::on_actionOpen_triggered()
 
 void MainWindow::on_actionOpen_jbossfrisco6_triggered()
 {
-    //Logger *logger = new Logger(this);
-    //logger->init("lyra", "22", "dev", "userdev", "/opt/jboss-eap-6.3/jboss-as/standalone/log/server.log");
-    //ui->tabWidget->addTab(logger, "jbossfrisco6");
-
 }
 
 void MainWindow::on_actionOpen_jbossinterne_triggered()
 {
-    //Logger *logger = new Logger(this, "lyra", "22", "dev", "userdev", "/opt/jboss-eap-5.2/jboss-as/server/interne/log/server.log");
-    //ui->tabWidget->addTab(logger, "jbossinterne");
-
 }
 
 void MainWindow::on_actionClose_file_triggered()
@@ -63,8 +56,6 @@ void MainWindow::on_actionClose_file_triggered()
 
 void MainWindow::on_actionCastor_triggered()
 {
-    //Logger *logger = new Logger(this, "castor", "22", "userlog", "userlog", "/opt/jboss-eap-5.2/jboss-as/server/interne/log/server.log");
-    //ui->tabWidget->addTab(logger, "castor");
 }
 
 void MainWindow::on_actionFind_triggered()
@@ -100,8 +91,6 @@ void MainWindow::on_actionNew_triggered()
 
 void MainWindow::on_actionBergerac_triggered()
 {
-    //Logger *logger = new Logger(this, "bergerac", "22", "userlog", "userlog", "/opt/jboss-eap-6.3/jboss-as/standalone/log/server.log");
-    //ui->tabWidget->addTab(logger, "Bergerac");
 }
 
 void MainWindow::openSite(QString servername, QString username, QString password, QString filename, int port)

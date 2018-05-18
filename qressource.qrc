@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/Toolbar">
+        <file alias="edit-clear.png">Images/edit-clear.png</file>
+        <file alias="player_pause.png">Images/player_pause.png</file>
+        <file alias="player_play.png">Images/player_play.png</file>
+        <file alias="Find.png">Images/Find.png</file>
+        <file alias="Next.png">Images/Next.png</file>
+        <file alias="Previous.png">Images/Previous.png</file>
+        <file alias="Refresh.png">Images/Refresh.png</file>
+        <file alias="Open.png">Images/Open.png</file>
+        <file alias="Ssh.png">Images/Ssh.png</file>
+        <file alias="cross.png">Images/cross.png</file>
+    </qresource>
+</RCC>
